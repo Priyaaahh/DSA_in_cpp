@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int x = 0;
+    if(x++){
+        cout<<"Aniket";
+    }
+    else{
+        cout<<"Shital";
+    }
+}
